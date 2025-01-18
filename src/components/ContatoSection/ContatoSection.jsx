@@ -19,7 +19,7 @@ function ContatoSection() {
                 </div>
 
                 <div className="form-area flex flex-col gap-3 justify-center items-center sm:items-start mb-3 md:mb-8">
-                    <h2 className="text-4xl text-center w-full md:text-start text-white font-bold mb-2">Pronto para economizar?</h2>
+                    <h2 className="text-2xl md:text-4xl text-center w-full md:text-start text-white font-bold mb-2">Pronto para economizar?</h2>
                     <span className=" w-80 md:w-[300px] lg:w-[450px]  text-white">Entre em contato com nossa equipe e comece hoje mesmo a sua jornada rumo à economia e sustentabilidade.</span>
 
                     <ContactForm/>
