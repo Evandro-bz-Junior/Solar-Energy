@@ -13,7 +13,7 @@ function BeneficiosSection() {
 
       <div className="container max-w-5xl relative mx-auto flex flex-col gap-y-6 items-center">
 
-        <h1 className='text-2xl	sm:text-3xl md:text-4xl font-bold text-white  '>Por que escolher energia solar?</h1>
+        <h1 className='text-xl	sm:text-3xl md:text-4xl font-bold text-white  '>Por que escolher energia solar?</h1>
         <span className='  text-white w-80 md:w-[480px] text-center  	'>Energia solar é mais do que economizar, é uma escolha inteligente para o futuro do planeta e o seu bolso.</span>
 
         <div className="itens-area grid grid-cols-2 lg:flex gap-2 md:gap-4 lg:gap-2 justify-center">

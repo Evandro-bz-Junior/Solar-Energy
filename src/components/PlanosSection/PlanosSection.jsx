@@ -10,7 +10,7 @@ function PlanosSection() {
 
             <div className="container max-w-5xl relative mx-auto flex flex-col gap-y-8 items-center">
                 <div className='info-area flex flex-col gap-y-4 items-center text-azul font-bold'>
-                    <h4 className=' text-2xl sm:text-3xl md:text-4xl text-center font-bold mt-4'>Encontre a solução perfeita para você!</h4>
+                    <h4 className=' text-xl sm:text-3xl md:text-4xl text-center font-bold mt-4'>Encontre a solução perfeita para você!</h4>
                     <span className=' w-80  md:w-[700px] text-center'>Desde residências até grandes indústrias, temos o sistema ideal para sua necessidade.</span>
                     <span className=' w-80  md:w-[650px] text-center' >Ao escolher nossa solução de energia solar, você garante uma instalação 100% gratuita realizada por profissionais qualificados, com garantia de até 25 anos nos painéis solares. Acompanhe a performance do seu sistema em tempo real através do monitoramento remoto 24/7, garantindo eficiência e tranquilidade. Além disso, reduza até 95% da sua conta de luz enquanto investe em um futuro sustentável e valoriza o seu imóvel.</span>
                 </div>
