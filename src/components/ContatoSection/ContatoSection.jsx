@@ -18,8 +18,8 @@ function ContatoSection() {
                     <img src={contatoImg} alt="contato-Img" className='w-[500px] sm:w-400px lg:w-[500px] h-full   object-cover drop-shadow-2xl select-none' draggable="false"/>
                 </div>
 
-                <div className="form-area flex flex-col gap-3 justify-center items-center sm:items-start mb-3 sm:mb-8">
-                    <h2 className="text-4xl md:text-4xl text-center   md:text-start text-white font-bold mb-2">Pronto para economizar?</h2>
+                <div className="form-area w-full sm:w-auto flex flex-col gap-6 justify-center items-center sm:items-start mb-3 sm:mb-8">
+                    <h2 className="text-3xl max-w-sm md:text-4xl text-center   md:text-start text-white font-bold mb-2">Pronto para economizar?</h2>
                     <span className=" w-80 md:w-[300px] lg:w-[450px]  text-white">Entre em contato com nossa equipe e comece hoje mesmo a sua jornada rumo à economia e sustentabilidade.</span>
 
                     <ContactForm/>
