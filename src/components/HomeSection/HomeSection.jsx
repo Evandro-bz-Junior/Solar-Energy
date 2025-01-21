@@ -13,7 +13,7 @@ function HomeSection() {
             
             <div className="absolute inset-0 bg-black bg-opacity-50"></div>
 
-            <div className="container max-w-5xl mx-auto  flex flex-col md:flex-row   justify-between h-full relative  ">
+            <div className="container max-w-5xl mx-auto  flex flex-col sm:flex-row  justify-between h-full relative  ">
 
                 <div className='text-white flex flex-col gap-4 justify-center ms-5 md:ms-10 mt-16 md:mt-10  z-20'>
                     <h1 className='text-2xl	 md:text-4xl font-bold md:w-[400px] lg:w-[500px]	'>Sua Independência Energética</h1>

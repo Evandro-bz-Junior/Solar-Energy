@@ -14,7 +14,7 @@ function Footer() {
                     <h2 className='text-xl font-bold'>
                         Links Rápidos
                     </h2>
-                    <ul className='grid grid-cols-2	gap-2 md:gap-'>
+                    <ul className='grid grid-cols-2	gap-2 sm:gap-1 w-52'>
                         <li className=""><a className='' href="#inicio">Inicio</a></li>
                         <li className=""><a className='' href="#beneficios">Benefícios</a></li>
                         <li className=""><a className='' href="#pacotes">Pacotes</a></li>

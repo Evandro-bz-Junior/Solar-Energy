@@ -38,7 +38,7 @@ function ContactForm() {
                         type="text"
                         id="name"
                         name="name"
-                        className="w-[350px] md:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
+                        className="w-[350px] sm:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
                         placeholder="Digite seu nome"
                     />
 
@@ -51,7 +51,7 @@ function ContactForm() {
                         type="email"
                         id="email"
                         name="email"
-                        className="w-[350px] md:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
+                        className="w-[350px] sm:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
                         placeholder="Digite seu e-mail"
                     />
                 </div>
@@ -64,7 +64,7 @@ function ContactForm() {
                         id="phone"
                         name="phone"
                         maxLength={11}
-                        className="w-[350px] md:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
+                        className="w-[350px] sm:w-[300px] lg:w-[350px] p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
                         placeholder="Digite seu telefone"
                     />
                 </div>
@@ -75,7 +75,7 @@ function ContactForm() {
                         id="message"
                         name="message"
                         rows="4"
-                        className="w-[350px] md:w-[300px] lg:w-[350px] min-h-12 max-h-20 p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
+                        className="w-[350px] sm:w-[300px] lg:w-[350px] min-h-12 max-h-20 p-3 border border-gray-300 rounded-lg focus:ring-1 focus:ring-amarelo focus:outline-none"
                         placeholder="Escreva sua mensagem"
                     ></textarea>
                 </div>

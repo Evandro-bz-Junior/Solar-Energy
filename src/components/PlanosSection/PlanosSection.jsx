@@ -4,7 +4,7 @@ import ButtonCta from '../ButtonCta/ButtonCta';
 
 function PlanosSection() {
     return (
-        <section id='pacotes' className='py-8 bg-cover bg-center bg-no-repeat relative '
+        <section id='pacotes' className='py-8 bg-cover bg-center bg-no-repeat relative  '
             style={{ backgroundImage: `url(${planosBgImg})` }}>
             <div className="absolute inset-0 bg-amarelo  bg-opacity-80  "></div>
 
