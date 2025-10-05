@@ -35,21 +35,4 @@ A estrutura da aplicação é organizada em componentes funcionais, garantindo m
 - **Footer**: Rodapé com links úteis e informações de contato.
 
 ---
-
-
-## 🚀 Tecnologias Utilizadas
-
-- **React**: Framework JavaScript para construção de interfaces.
-- **Tailwind CSS**: Framework CSS para estilização rápida e eficiente.
-- **Vite**: Build tool para desenvolvimento rápido e moderno.
-
----
-
-## 📦 Principais Dependências
-
-- **[React Hook Form](https://react-hook-form.com/)**: Biblioteca leve e flexível para manipulação de formulários.
-- **[React Icons](https://react-icons.github.io/react-icons/)**: Coleção de ícones prontos para uso em React.
-- **[Hamburger React](https://hamburger-react.netlify.app/)**: Componente de menu responsivo no estilo "hamburger".
-- **[Yup](https://github.com/jquense/yup)**: Validação de formulários de maneira simples e declarativa.
-
----
+ 
